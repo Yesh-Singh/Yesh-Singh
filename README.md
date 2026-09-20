@@ -21,8 +21,6 @@ I enjoy turning ideas into working projects and continuously learning new techno
 
 ---
 
-\
-
 
 ### 🤖 AI / ML
 
@@ -84,25 +82,6 @@ More projects coming soon 🚀
 
 ---
 
-## 🧠 DSA Journey
-
-Currently working on improving my understanding of:
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Recursion
-* Searching
-* Sorting
-* Hashing
-* Trees
-* Graphs
-* Dynamic Programming
-
-> Learning → Practicing → Building → Improving
-
----
 
 ## 🏆 Goals
 
